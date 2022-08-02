@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/station-charge-6a04v.blank-l6clc204",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve K8tKRXCToagI73FOZsaY --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
